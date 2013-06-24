@@ -8,13 +8,19 @@ Take a look at the demo [link to demo page](http://www.minimamente.com/magic-css
 ##Installation
 
 
-Include the CSS style: magic.css
+Include the application.css.sass
 or
-include the mynified version: magic.min.css
+application.css.scss
+include magic
 
-Example:
+Example(application.css.sass):
 ```html
-<link rel="stylesheet" href="yourpath/magic.css">
+@import magic
+```
+
+Example(application.css.scss):
+```html
+@import "magic";
 ```
 
 ##Usage
