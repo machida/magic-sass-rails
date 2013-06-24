@@ -1,5 +1,11 @@
-magic
+magic-sass-rails
 =====
+
+##magic-sass-rails
+
+magic for rails.
+
+##Magic
 
 CSS3 Animations with special effects. Now on beta, more effects coming soon. Many thanks to [daneden](http://daneden.me/animate/) for inspiration!
 My next step is to minifing the code.
