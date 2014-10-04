@@ -15,6 +15,6 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = MagicSassRails::VERSION
 
-  gem.add_dependency "railties", "~> 3.1"
+  gem.add_dependency "railties", ">= 3.1"
   gem.add_dependency("compass-rails")
 end
